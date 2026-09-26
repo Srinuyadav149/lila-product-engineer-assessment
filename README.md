@@ -2,7 +2,7 @@
 
 A high-performance, web-based spatial telemetry visualizer and 60 FPS match replay engine built for extraction shooter level design and player behavior analytics.
 
-🔗 **Live Deployment URL:** [`(https://lila-product-engineer-assessment-4r0e4up8v-demo-ae59.vercel.app/)`](https://lila-product-engineer-assessment-4r0e4up8v-demo-ae59.vercel.app/)
+🔗 **Live Deployment URL:** [`https://lila-product-engineer-assessment.vercel.app/`](https://lila-product-engineer-assessment.vercel.app/)
 
 📁 **Repository:** [`https://github.com/Srinuyadav149/lila-product-engineer-assessment`](https://github.com/Srinuyadav149/lila-product-engineer-assessment)
 
