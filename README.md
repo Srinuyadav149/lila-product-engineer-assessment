@@ -4,7 +4,7 @@ A high-performance, web-based spatial telemetry visualizer and 60 FPS match repl
 
 🔗 **Live Deployment URL:** [`https://your-deployment-url.vercel.app`](https://your-deployment-url.vercel.app) *(Replace with your live link)*
 
-📁 **Repository:** [`https://github.com/your-username/your-repo`](https://github.com/Srinuyadav149/lila-product-engineer-assessment)
+📁 **Repository:** [`https://github.com/Srinuyadav149/lila-product-engineer-assessment`](https://github.com/Srinuyadav149/lila-product-engineer-assessment)
 
 ---
 
